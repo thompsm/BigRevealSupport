@@ -9,6 +9,6 @@ The next time you launch ScratchMe!, it will remember the last photo used.
 
 To reset ScratchMe! and choose another photo, click the top left corner 5 times.
 
-### Contact Us
+** Contact Us **
 
 If you need help, would like to offer your support, or have suggestions on how to improve the app, please contact me at scratchmehelp@gmail.com
