@@ -1,3 +1,5 @@
+## Welcome to the ScratchMe!
+
 **Welcome to the ScratchMe! Support Page**
 
 Welcome to ScratchMe!
