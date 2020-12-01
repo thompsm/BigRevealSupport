@@ -1,4 +1,4 @@
-## Welcome to the ScratchMe!
+## ScratchMe!
 
 **Privacy Policy**
 
