@@ -4,13 +4,11 @@ Mark Thompson built the ScratchMe! app as a Commercial app. This SERVICE is prov
 
 This page is used to inform visitors regarding my policies to use my Service.
 
-The ScratchMe! app does not collect any information of users but the App Store may do so for service management.
+The ScratchMe! app does not collect any information about users, but the App Store may do so for service management.
 
 The privacy policy of the App Store service can be read here https://www.apple.com/legal/privacy
 
-As no information is collected, it will not be shared with anyone. 
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at ScratchMe! unless otherwise defined in this Privacy Policy.
+As no information is collected by the SERVICE, it will not be shared with anyone. 
 
 **Changes to This Privacy Policy**
 
