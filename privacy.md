@@ -6,7 +6,7 @@ This page is used to inform visitors regarding my policies to use my Service.
 
 The ScratchMe! app does not collect any information about users, but the App Store may do so for service management.
 
-The privacy policy of the App Store service can be read here https://www.apple.com/legal/privacy
+The privacy policy of the App Store service can be read here (https://www.apple.com/legal/privacy)
 
 As no information is collected by the SERVICE, it will not be shared with anyone. 
 
