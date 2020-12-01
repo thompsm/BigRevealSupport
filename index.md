@@ -1,4 +1,4 @@
-## Welcome to the ScratchMe!
+## ScratchMe!
 
 **Welcome to the ScratchMe! Support Page**
 
