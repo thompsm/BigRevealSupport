@@ -11,7 +11,7 @@ The next time you launch BigReveal, it will remember the last photo used.
 
 To reset BigReveal and choose another photo, click the top left corner 5 times.
 
-**Terms and Conditions***
+**Terms and Conditions**
 
 Please see [here](https://thompsm.github.io/BigRevealSupport/termsandconditions)
 
