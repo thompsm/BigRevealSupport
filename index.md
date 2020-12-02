@@ -1,4 +1,4 @@
-## Bih=gReveal
+## BigReveal
 
 **Welcome to the BigReveal Support Page**
 
